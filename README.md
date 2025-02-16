@@ -43,8 +43,7 @@ Key areas of focus include:
   CALCULATE([RevPAR], dim_date[wn]= selv)
 
   var revpw =
-  CALCULATE([RevPAR], FILTER(ALL(dim_date), dim_date[wn]=selv-1)
-  )
+  CALCULATE([RevPAR], FILTER(ALL(dim_date), dim_date[wn]=selv-1))
   
   return
 
