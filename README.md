@@ -33,10 +33,18 @@ Key areas of focus include:
   1) RevPAR = [Total Revenue] / [Total Available Rooms]
 
   
-  2) Revpar WoW change % = Var selv = IF(HASONEFILTER(dim_date[wn]),   
-  SELECTEDVALUE(dim_date[wn]),MAX(dim_date[wn])) var revcw = CALCULATE(
-  [RevPAR],dim_date[wn]= selv) var revpw =  CALCULATE([RevPAR],FILTER(ALL
-  (dim_date),dim_date[wn]= selv-1))
+  2) Revpar WoW change % =
+  VAR selv =
+  IF(HASONEFILTER(dim_date[wn]),   
+  SELECTEDVALUE(dim_date[wn]),
+  MAX(dim_date[wn]))
+
+  VAR revcw =
+  CALCULATE([RevPAR], dim_date[wn]= selv)
+
+  var revpw =
+  CALCULATE([RevPAR], FILTER(ALL(dim_date), dim_date[wn]=selv-1)
+  )
   
   return
 
