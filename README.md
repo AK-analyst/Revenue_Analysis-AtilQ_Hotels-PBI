@@ -2,7 +2,7 @@
 Atliq Hotels - Revenue Insights Dashboard: provides key revenue analytics for hotel management. It tracks. occupancy rates, RevPAR, regional performance, and seasonal trends to optimize profitability. Built using **Power BI**, it features interactive visuals, KPIs, and DAX-based calculations for data-driven decisions. 📊🏨
 
 ---
-### Dashboard Link: - https://app.powerbi.com/links/Jjtyh6AN_r?ctid=c59458a9-4133-402b-b5e3-779bff375f4f&pbi_source=linkShare
+### View Live Dashboard: - https://app.powerbi.com/links/Jjtyh6AN_r?ctid=c59458a9-4133-402b-b5e3-779bff375f4f&pbi_source=linkShare
 ---
 ## Problem Statement
 
