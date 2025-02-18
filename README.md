@@ -1,4 +1,4 @@
-# Atliq Hotels - Revenue Insights Dashboard
+# Revenue Insights Dashboard - Atliq Hotels - PBI
 ---
 ### Dashboard Link: - https://app.powerbi.com/links/Jjtyh6AN_r?ctid=c59458a9-4133-402b-b5e3-779bff375f4f&pbi_source=linkShare
 ---
