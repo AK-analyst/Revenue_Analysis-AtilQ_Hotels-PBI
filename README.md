@@ -1,12 +1,12 @@
-# Revenue Analysis - AtliQ Hotels - PBI
-Atliq Hotels - Revenue Insights Dashboard: provides key revenue analytics for hotel management. It tracks. occupancy rates, RevPAR, regional performance, and seasonal trends to optimize profitability. Built using **Power BI**, it features interactive visuals, KPIs, and DAX-based calculations for data-driven decisions. 📊🏨
+# Revenue Analysis - AtilQ Hotels - PBI
+AtilQ Hotels - Revenue Insights Dashboard: provides key revenue analytics for hotel management. It tracks. occupancy rates, RevPAR, regional performance, and seasonal trends to optimize profitability. Built using **Power BI**, it features interactive visuals, KPIs, and DAX-based calculations for data-driven decisions. 📊🏨
 
 ---
 ### View Live Dashboard: - https://app.powerbi.com/links/Jjtyh6AN_r?ctid=c59458a9-4133-402b-b5e3-779bff375f4f&pbi_source=linkShare
 ---
 ## Problem Statement
 
-This dashboard provides insights into the revenue streams of Atliq Hotels. It assists the hotel management in understanding revenue distribution across different segments and identifying areas for growth and improvement. By analyzing metrics such as room occupancy rates, revenue per available room (RevPAR), Region and City, the dashboard supports data-driven decision-making to enhance profitability.
+This dashboard provides insights into the revenue streams of AtilQ Hotels. It assists the hotel management in understanding revenue distribution across different segments and identifying areas for growth and improvement. By analyzing metrics such as room occupancy rates, revenue per available room (RevPAR), Region and City, the dashboard supports data-driven decision-making to enhance profitability.
 
 Key areas of focus include:
 - Identifying high and low-performing segments
@@ -76,9 +76,9 @@ whereas Business rooms had the highest Revenue contribution at 647.7 millions.
 ### Regional Performance:
 The top three hotels in terms of revenue are all located in Mumbai. Specifically:
 
-- Atliq Exotica: This property achieved the highest revenue of 117 million with a total booking count of 7251 and a RevPAR (Revenue per Available Room) of 10629.
-- Atliq Palace: Following closely, this hotel generated 100 million in revenue from 6259 bookings, with a RevPAR of 10592.
-- Atliq Exotica (second listing): Another branch of Atliq Exotica in Mumbai recorded 98 million in revenue from 6074 bookings, and a RevPAR of 10107.
+- AtilQ Exotica: This property achieved the highest revenue of 117 million with a total booking count of 7251 and a RevPAR (Revenue per Available Room) of 10629.
+- AtilQ Palace: Following closely, this hotel generated 100 million in revenue from 6259 bookings, with a RevPAR of 10592.
+- AtilQ Exotica (second listing): Another branch of AtilQ Exotica in Mumbai recorded 98 million in revenue from 6074 bookings, and a RevPAR of 10107.
 
 Snapshots
 Snapshot of the Dashboard (Power BI Service)
