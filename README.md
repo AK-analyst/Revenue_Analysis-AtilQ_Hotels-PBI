@@ -1,7 +1,7 @@
 # Atliq Hotels - Revenue Insights Dashboard
-
+---
 ### Dashboard Link: - https://app.powerbi.com/links/Jjtyh6AN_r?ctid=c59458a9-4133-402b-b5e3-779bff375f4f&pbi_source=linkShare
-
+---
 ## Problem Statement
 
 This dashboard provides insights into the revenue streams of Atliq Hotels. It assists the hotel management in understanding revenue distribution across different segments and identifying areas for growth and improvement. By analyzing metrics such as room occupancy rates, revenue per available room (RevPAR), Region and City, the dashboard supports data-driven decision-making to enhance profitability.
@@ -51,8 +51,8 @@ Key areas of focus include:
 
 - **Step 13:**  Add the company's logo and tagline for branding purposes.
 - **Step 14:**  Publish the report to Power BI Service for easy sharing and collaboration.
-
-## **Insights**
+---
+# **Insights**
 From the analysis, the following insights were drawn:
 
 ## Total Revenue and Occupancy Rates:
@@ -85,4 +85,5 @@ Report Snapshot ![Screenshot 2024-06-10 235520](https://github.com/AK-analyst/Pr
 
 ![Screenshot 2024-06-10 235610](https://github.com/AK-analyst/Projects/assets/130201149/2cb35cb8-77e1-465a-94a5-401fbadef0a8)
 
+---
 
