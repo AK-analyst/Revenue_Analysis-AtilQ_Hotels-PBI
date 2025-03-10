@@ -2,7 +2,7 @@
 AtilQ Hotels - Revenue Insights Dashboard: provides key revenue analytics for hotel management. It tracks. occupancy rates, RevPAR, regional performance, and seasonal trends to optimize profitability. Built using **Power BI**, it features interactive visuals, KPIs, and DAX-based calculations for data-driven decisions. 📊🏨
 
 ---
-### View Live Dashboard: - https://app.powerbi.com/links/Jjtyh6AN_r?ctid=c59458a9-4133-402b-b5e3-779bff375f4f&pbi_source=linkShare
+### [View Live Dashboard--](https://app.powerbi.com/view?r=eyJrIjoiNjZkMDJjNTYtN2Q3Ni00ZjUyLWI5NWUtNzUwNDBmMzcyY2JjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ---
 ## Problem Statement
 
@@ -63,7 +63,7 @@ The total revenue for the months May, June, July was $1.69 billions.
 The average occupancy rate was 57.8%, with the highest rates during the.
 
 ## Metrics by Weekday and Weekends: 
-![Screenshot 2024-06-12 150503](https://github.com/AK-analyst/Projects/assets/130201149/a58ca343-6c58-425b-ba65-a7e48589f1fe)
+![Image](https://github.com/AK-analyst/Revenue_Analysis-AtilQ_Hotels-PBI/blob/main/Screenshot%202025-03-10%20232514.png)
 
 
 
@@ -80,12 +80,11 @@ The top three hotels in terms of revenue are all located in Mumbai. Specifically
 - AtilQ Palace: Following closely, this hotel generated 100 million in revenue from 6259 bookings, with a RevPAR of 10592.
 - AtilQ Exotica (second listing): Another branch of AtilQ Exotica in Mumbai recorded 98 million in revenue from 6074 bookings, and a RevPAR of 10107.
 
-Snapshots
-Snapshot of the Dashboard (Power BI Service)
+# Snapshots
 
-Report Snapshot ![Screenshot 2024-06-10 235520](https://github.com/AK-analyst/Projects/assets/130201149/bbddbf42-12d3-4af9-939b-dffc334ab2a1)
+Report Snapshot ![Image1](https://github.com/AK-analyst/Revenue_Analysis-AtilQ_Hotels-PBI/blob/main/Screenshot%202025-03-10%20232350.png)
+---
 
-![Screenshot 2024-06-10 235610](https://github.com/AK-analyst/Projects/assets/130201149/2cb35cb8-77e1-465a-94a5-401fbadef0a8)
-
+ToolTip Snapshot ![Image2](https://github.com/AK-analyst/Revenue_Analysis-AtilQ_Hotels-PBI/blob/main/Screenshot%202025-03-10%20232409.png)
 ---
 
